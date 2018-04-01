@@ -21,4 +21,9 @@ public class MainActivity extends AppCompatActivity {
         Boolean b = false;
         Boolean c = true;
     }
+
+    public void doSomething(){
+        int i = 15;
+        int ii = 70;
+    }
 }
