@@ -19,5 +19,6 @@ public class MainActivity extends AppCompatActivity {
         String s = "test";
 
         Boolean b = false;
+        Boolean c = true;
     }
 }
